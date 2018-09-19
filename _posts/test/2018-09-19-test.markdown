@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dummy Post"
+date:   2018-09-19 08:43:59
+author: Tester
+categories: Test
+---
+
+Test categorization.
